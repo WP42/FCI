@@ -1,0 +1,15 @@
+$schema: https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json
+version: '0.2'
+dictionaryDefinitions:
+  - name: WP42 FCI Dictionary
+    path: './.cSpell-FCI'
+    addWords: true
+dictionaries:
+  - WP42 FCI Dictionary
+ignorePaths:
+  - '/.cSpell-FCI'
+languageSettings:
+  - languageID:
+    - markdown
+    - yaml
+    caseSensitive: true
