@@ -1,0 +1,44 @@
+# Helios Hub
+# Git Ignore File
+# Ignore Everything!
+/*
+
+# Addtional Items That Must Be Ignored To CYA...
+# Specific SubFolders, Files, Etc.
+/symlinks/**
+# macOS...
+**/.DS_Store
+# Windows
+**/Thumbs.db
+# Repositories...
+**/.git
+**/.svn
+
+# Except these files/folders...
+# Dot Folders
+!/.github
+!/.vscode
+
+# And These Dot Fiiles...
+!.cSpell-FCI
+!.gitignore
+!.gitkeep
+
+# Configurtion Files...
+!cspell.yaml
+
+# Project Folders...
+
+
+# Project Files...
+
+# Markdown Files...
+!CHANGELOG.md
+!CONTRIBUTING.md
+!LICENSE.md
+!README.md
+
+# Misc Files...
+
+
+# End of Git Ignore File
