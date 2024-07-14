@@ -29,8 +29,8 @@
 
 # Project Folders...
 
-
 # Project Files...
+!/cloud-init.yaml
 
 # Markdown Files...
 !CHANGELOG.md
