@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "streetsidesoftware.code-spell-checker",
+    "pkief.material-icon-theme",
+    "github.vscode-pull-request-github",
+    "chrisdias.vscode-opennewinstance",
+    "esbenp.prettier-vscode",
+    "arcanis.vscode-zipfs",
+    "editorconfig.editorconfig",
+    "mhutchie.git-graph"
+  ]
+}
