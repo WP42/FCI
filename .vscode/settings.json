@@ -1,0 +1,22 @@
+{
+  "git.defaultBranchName": "production",
+  "git.repositoryScanMaxDepth": -1,
+  "git.alwaysShowStagedChangesResourceGroup": true,
+  "git.branchPrefix": "eDev-",
+  "files.exclude": {
+    "**/.git": false,
+    "**/.svn": false
+  },
+  "editor.fontSize": 16,
+  "files.autoSave": "onFocusChange",
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.minimap.scale": 2,
+  "explorer.fileNesting.enabled": true,
+  "scm.alwaysShowActions": true,
+  "scm.providerCountBadge": "visible",
+  "search.exclude": {
+    "**/.yarn": true,
+    "**/.pnp.*": true
+  },
+  "prettier.prettierPath": ".yarn/sdks/prettier/index.cjs"
+}
